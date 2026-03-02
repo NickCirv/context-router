@@ -1,0 +1,32 @@
+{
+  "name": "context-router",
+  "version": "1.0.0",
+  "description": "Smart Claude model selector. Route tasks to Haiku/Sonnet/Opus based on complexity. Save money.",
+  "type": "module",
+  "bin": {
+    "context-router": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude",
+    "ai",
+    "cost-optimization",
+    "model-selection",
+    "llm",
+    "anthropic",
+    "haiku",
+    "sonnet",
+    "opus",
+    "routing",
+    "cli"
+  ],
+  "author": "NickCirv",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/context-router.git"
+  },
+  "homepage": "https://github.com/NickCirv/context-router#readme"
+}

@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # context-router
 
 Smart Claude model selector. Describe your task — it picks Haiku, Sonnet, or Opus based on complexity signals, explains why, and estimates the cost. Stop burning Opus credits on tasks Haiku handles fine.
